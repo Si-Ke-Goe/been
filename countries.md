@@ -49,7 +49,7 @@
 - [ ] BN Brunei Darussalam
 - [ ] CN China
 - [ ] GE Georgia
-- [ ] IN India
+- [x] IN India
 - [ ] ID Indonesia
 - [ ] IR Iran
 - [ ] IQ Iraq
